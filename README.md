@@ -1,6 +1,6 @@
 # Solar Inverter Log Data Extractor Project
 
-Scrip made on Python to analyze logs and detect inverters modules with failures during day/night.
+Script made on Python to analyze logs and detect inverters modules with failures during day/night.
 Funtions to plot electrical values, temperatures, warnings and failures.
 
 * Using Pandas to manipulate, clean and transform data from log inverters.
